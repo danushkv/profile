@@ -25,10 +25,3 @@ main:
     code: https://gitlab.com/nct_tso_public/constructs
     image: ./assets/img/ipcai_image.png
     notes: Best Paper Candidate
-
-
-- title: Detecting Adversarial Examples in Batches--a geometrical approach
-    authors: <strong>Danush Kumar Venkatesh</strong>, Peter Steinbach
-    pdf: https://arxiv.org/pdf/2206.08738
-    code: https://github.com/danushv07/n2gem
-    image: ./assets/img/fgsm_combined.png
