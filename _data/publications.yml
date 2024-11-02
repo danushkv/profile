@@ -9,7 +9,7 @@ main:
     image: ./assets/img/wacv_image.png
   
 
-  - title: SurgicaL-CD: Generating Surgical Images via Unpaired Image Translation with Latent Consistency Diffusion Models
+  - title: Generating Surgical Images via Unpaired Image Translation with Latent Consistency Diffusion Models
     authors: <strong>Danush Kumar Venkatesh</strong>, Dominik Rivoir, Micha Pfeiffer, Stefanie Speidel
     conference_short: ECCVw
     conference: European Conference on Computer Vision workshop <strong>(ECCVw)</strong>, 2024.
