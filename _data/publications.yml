@@ -4,7 +4,7 @@ main:
     authors: <strong>Danush Kumar Venkatesh</strong>, Dominik Rivoir, Micha Pfeiffer, Fiona Kolbinger, Stefanie Speidel
     conference_short: WACV
     conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2025.
-    arXiv: https://arxiv.org/abs/2410.07753
+    pdf: https://arxiv.org/abs/2410.07753
     code: https://gitlab.com/nct_tso_public/muli-class-image-synthesis
     image: ./assets/img/wacv_image.png
   
@@ -13,7 +13,7 @@ main:
     authors: <strong>Danush Kumar Venkatesh</strong>, Dominik Rivoir, Micha Pfeiffer, Stefanie Speidel
     conference_short: ECCVw
     conference: European Conference on Computer Vision workshop <strong>(ECCVw)</strong>, 2024.
-    arXiv: https://arxiv.org/abs/2408.09822
+    pdf: https://arxiv.org/abs/2408.09822
     code: https://gitlab.com/nct_tso_public/gan2diffusion
     image: ./assets/img/eccv_image.png
 
