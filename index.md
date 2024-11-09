@@ -6,7 +6,7 @@ layout: homepage
 
 I am a second-year PhD student at the [National Center for Tumor Diseases (NCT)](https://www.nct-dresden.de/en/research/departments-and-groups/translational-surgical-oncology/translational-surgical-oncology) and [School of Embedded Composite Aritificial Intelligence (SECAI)](https://secai.org/) TU Dresden, Germany under the supervision of Prof. Stefanie Speidel .
 
-My research is focused on generating training data for biomedical applications. I am interested in synthesizing image and video datasets using generative models like GANs, VAEs and diffusion with a penchant for application-driven computer vision research.
+My research centers on developing synthetic training data for biomedical applications, with a focus on image and video datasets using generative approaches like diffusion. Specifically, I concentrate on creating anatomically accurate structures and textures tailored for effective use in downstream applications. I am passionate about application-driven computer vision, aiming to bridge innovation with real-world impact in the biomedical field.
 
 ## Research Interests
 
