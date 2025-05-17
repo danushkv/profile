@@ -1,6 +1,6 @@
 main:
 
-  - title: Mission Balance: Generating Under-represented Class Samples using Video Diffusion Models
+  - title: Mission Balance - Generating Under-represented Class Samples using Video Diffusion Models
     authors: <strong>Danush Kumar Venkatesh</strong>, Isabel Funke, Micha Pfeiffer, Fiona Kolbinger, Hanna Schmeiser, Marius Distler, Jürgen Weitz, Stefanie Speidel
     conference_short: MICCAI
     conference: International Conference on Medical Image Ccomputing & Computer Assisted Intervention <strong>(MICCAI)</strong>, 2025.
