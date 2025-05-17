@@ -15,6 +15,7 @@ My research centers on developing synthetic training data for biomedical applica
 
 ## News
 
+- **[May. 2025]** Our paper about video diffusion is early accepted at MICCAI 2025.
 - **[Mar. 2025]** I'm starting as a PhD Intern at Intuitive Surgical (US).
 - **[Nov. 2024]** Our paper about anatomy aware diffusion is accepted to WACV 2025.
 - **[Aug. 2024]** Our paper about image synthesis with diffusion is accepted to ECCVw 2024.
