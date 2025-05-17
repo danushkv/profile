@@ -3,10 +3,11 @@ main:
   - title: Mission Balance: Generating Under-represented Class Samples using Video Diffusion Models
     authors: <strong>Danush Kumar Venkatesh</strong>, Isabel Funke, Micha Pfeiffer, Fiona Kolbinger, Hanna Schmeiser, Marius Distler, Jürgen Weitz, Stefanie Speidel
     conference_short: MICCAI
-    conference: International Conf. on Medical Image Ccomputing & Computer Assisted Intervention <strong>(MICCAI)</strong>, 2025.
+    conference: International Conference on Medical Image Ccomputing & Computer Assisted Intervention <strong>(MICCAI)</strong>, 2025.
     pdf: https://www.arxiv.org/abs/2505.09858
     code: https://gitlab.com/nct_tso_public/surgvgen
     image: ./assets/img/miccai_25.png
+    notes: Early accept (top 9%)
 
   - title: Data Augmentation for Surgical Scene Segmentation with Anatomy Aware Diffusion Models
     authors: <strong>Danush Kumar Venkatesh</strong>, Dominik Rivoir, Micha Pfeiffer, Fiona Kolbinger, Stefanie Speidel
