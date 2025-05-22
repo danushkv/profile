@@ -15,6 +15,7 @@ main:
     conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2025.
     pdf: https://arxiv.org/abs/2410.07753
     code: https://gitlab.com/nct_tso_public/muli-class-image-synthesis
+    page: https://danushkv.github.io/multi_syn/
     image: ./assets/img/wacv_image.png
   
 
