@@ -1,11 +1,18 @@
 main:
-
+  - title: Towards Application Aligned Synthetic Surgical Image Synthesis
+    authors: <strong>Danush Kumar Venkatesh</strong>, Stefanie Speidel
+    conference_short: NeurIPSw
+    conference: The Thirty-Ninth Annual Conference on Neural Information Processing Systems <strong>(NeurIPSw)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2509.18796
+    image: ./assets/img/nips_model.png
+    
   - title: Mission Balance - Generating Under-represented Class Samples using Video Diffusion Models
     authors: <strong>Danush Kumar Venkatesh</strong>, Isabel Funke, Micha Pfeiffer, Fiona Kolbinger, Hanna Schmeiser, Marius Distler, Jürgen Weitz, Stefanie Speidel
     conference_short: MICCAI
     conference: International Conference on Medical Image Ccomputing & Computer Assisted Intervention <strong>(MICCAI)</strong>, 2025.
     pdf: https://www.arxiv.org/abs/2505.09858
     code: https://gitlab.com/nct_tso_public/surgvgen
+    page: https://danushkv.github.io/survgen/
     image: ./assets/img/miccai_25.png
     notes: Early accept (top 9%)
 
