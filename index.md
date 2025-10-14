@@ -15,6 +15,7 @@ My research centers on developing synthetic training data for biomedical applica
 
 ## News
 
+- **[Oct. 2025]** The work on video diffusion models from the internship at Intuitive Surgical is published in arxiv.
 - **[Aug. 2025]** Our paper on application alignment of diffusion models is accepted at NeurIPSw 2025.
 - **[May. 2025]** Our paper about video diffusion is early accepted at MICCAI 2025.
 - **[Mar. 2025]** I'm starting as a PhD Intern at Intuitive Surgical (US).
