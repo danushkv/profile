@@ -4,14 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a third-year PhD student at the [National Center for Tumor Diseases (NCT)](https://www.nct-dresden.de/en/research/departments-and-groups/translational-surgical-oncology/translational-surgical-oncology) and [School of Embedded Composite Aritificial Intelligence (SECAI)](https://secai.org/) TU Dresden, Germany under the supervision of Prof. Stefanie Speidel .
+I am a final year PhD student at the [National Center for Tumor Diseases (NCT)](https://www.nct-dresden.de/en/research/departments-and-groups/translational-surgical-oncology/translational-surgical-oncology) and [School of Embedded Composite Aritificial Intelligence (SECAI)](https://secai.org/) TU Dresden, Germany under the supervision of Prof. Stefanie Speidel .
 
-My research centers on developing synthetic training data for biomedical applications, with a focus on image and video datasets using generative approaches like diffusion. Specifically, I concentrate on creating anatomically accurate structures and textures tailored for effective use in downstream applications. I am passionate about application-driven computer vision, aiming to bridge innovation with real-world impact in the biomedical field.
+My research focuses on developing large-scale synthetic training data for critical biomedical applications, such as robotic surgery. I#ve focussed on diffusion Models, to create training datasets that feature anatomically accurate structures and high fidelity textures. My goal is to significantly minimize the Sim2Real domain gap, accelerating the development of robust computer vision systems and embodied agents for real-world clinical impact.
 
 ## Research Interests
 
-- **Image synthesis:** Anatomical organ generation, Shape & texture controlled synthesis 
-- **Video generation:** Temporal consistency, labeled data generation
+- **Image synthesis:** Sim2Real translation, Shape & texture controlled synthesis 
+- **Video generation:** Temporal consistency, Kinematic & action conditioned generation
 
 ## News
 
