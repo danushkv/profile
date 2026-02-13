@@ -4,14 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a final year PhD student at the [National Center for Tumor Diseases (NCT)](https://www.nct-dresden.de/en/research/departments-and-groups/translational-surgical-oncology/translational-surgical-oncology) and [School of Embedded Composite Aritificial Intelligence (SECAI)](https://secai.org/) TU Dresden, Germany under the supervision of Prof. Stefanie Speidel .
+I am a final year PhD student at the [National Center for Tumor Diseases (NCT)](https://www.nct-dresden.de/en/research/departments-and-groups/translational-surgical-oncology/translational-surgical-oncology) and [School of Embedded Composite Aritificial Intelligence (SECAI)](https://secai.org/) TU Dresden, Germany under the supervision of [Prof. Stefanie Speidel](https://www.nct-dresden.de/en/research/departments-and-groups/translational-surgical-oncology).
 
-My research focuses on developing large-scale synthetic training data for critical biomedical applications, such as robotic surgery. I've focussed mainly on diffusion models, to create training datasets that feature anatomically accurate structures and high fidelity textures. My goal is to significantly minimize the Sim2Real domain gap, accelerating the development of robust computer vision systems and embodied agents for real-world clinical impact.
+I'm currently working on designing generative world models for high-fidelity medical simulation. I develop large-scale synthetic data pipelines for safety-critical applications such as robotic surgery, with a focus on diffusion-based image and video generation.
+
+Beyond pixel-level realism, my goal is to model anatomy, physics, and surgical interaction in a structured, controllable manner to build simulation environments for training both surgeons and robotic systems. By learning generative world models that capture anatomical variability and tool–tissue dynamics over time, I aim to reduce the Sim2Real gap and enable robust, clinically reliable perception and autonomous surgical agents.
 
 ## Research Interests
 
-- **Image synthesis:** Sim2Real translation, Shape & texture controlled synthesis 
-- **Video generation:** Temporal consistency, Kinematic & action conditioned generation
+- **Generative World Models for Surgery:** Learning structured, controllable representations of anatomy and tool–tissue interaction for simulation and training.
+
+- **Image & Video Synthesis:** Sim2Real translation, shape- and texture-controlled synthesis, temporally consistent video generation and action-conditioned generation.
+
+- **Embodied AI in Surgery:** Simulation-driven training of surgical robots and computer-assisted intervention systems.
 
 ## News
 
