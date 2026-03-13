@@ -1,16 +1,15 @@
-# Basic Information 
+# Basic Information
 title: Danush Kumar Venkatesh
 position: Ph.D. Student
-affiliation: NCT Dresden & SECAI, TU Dresden, Germany 
+affiliation: NCT Dresden & SECAI, TU Dresden, Germany
 email: danushkumarv@gmail.com
 
 # Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+keywords: Danush Kumar Venkatesh, PhD student, generative models, surgical AI, diffusion models, medical image synthesis, TU Dresden, NCT Dresden
+description: Danush Kumar Venkatesh - PhD student at NCT Dresden & SECAI, TU Dresden. Research in generative world models, diffusion-based image and video synthesis for surgical AI.
 canonical: https://minimal-light-theme.yliu.me/
 
-# Links 
+# Links
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=IssvficAAAAJ&hl=en
 cv_link: assets/files/resume.pdf
@@ -18,8 +17,8 @@ github_link: https://gitlab.com/users/danush17/contributed
 linkedin: https://www.linkedin.com/in/danushkumar-v12
 twitter: https://x.com/kumar_danush
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+# Images (e.g., your profile picture and your website's favicon)
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
 avatar: ./assets/img/Danush_photo.jpg
 favicon: ./assets/img/favicon-32x32.png
 favicon_dark: ./assets/img/favicon-dark.png
@@ -34,7 +33,7 @@ auto_dark_mode: true
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
+font: "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
