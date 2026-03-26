@@ -25,6 +25,7 @@ Beyond pixel-level realism, my goal is to model anatomy, physics, and surgical i
 <h2 id="news">News</h2>
 
 <ul class="news-list">
+  <li class="news-item"><span class="news-date">[Feb. 2026]</span> Developed SurgFasT as part of MedGemma challenge.</li>
   <li class="news-item"><span class="news-date">[Oct. 2025]</span> The work on video diffusion models from the internship at Intuitive Surgical is published in arxiv.</li>
   <li class="news-item"><span class="news-date">[Aug. 2025]</span> Our paper on application alignment of diffusion models is accepted at NeurIPSw 2025.</li>
   <li class="news-item"><span class="news-date">[May. 2025]</span> Our paper about video diffusion is early accepted at MICCAI 2025.</li>
