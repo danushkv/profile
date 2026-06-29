@@ -25,6 +25,7 @@ Beyond pixel-level realism, my goal is to model anatomy, physics, and surgical i
 <h2 id="news">News</h2>
 
 <ul class="news-list">
+  <li class="news-item"><span class="news-date">[May. 2026]</span> I got recognized as a Best (Gold) reviewer for ICML 2026 </li>
   <li class="news-item"><span class="news-date">[Apr. 2026]</span> SurgiFlowVid paper has been accepted at ICMl 2026 </li>
   <li class="news-item"><span class="news-date">[Feb. 2026]</span> Developed SurgFasT as part of MedGemma challenge.</li>
   <li class="news-item"><span class="news-date">[Oct. 2025]</span> The work on video diffusion models from the internship at Intuitive Surgical is published in arxiv.</li>
