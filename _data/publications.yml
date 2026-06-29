@@ -1,17 +1,17 @@
 main:
+  - title: "Mitigating Surgical Data Imbalance with Dual-Prediction Video Diffusion Model"
+    authors: "<strong>Danush Kumar Venkatesh</strong>, Adam Schmidt, Muhammad Abdullah Jamal, Omid Mohareri"
+    conference_short: ICML
+    conference: "Forty-Third International Conference on Machine Learning <strong>(ICML)</strong>, 2026."
+    pdf: https://arxiv.org/pdf/2510.07345
+    image: ./assets/img/iclr_model.png
+    
   - title: "SurgFasT: Fast-tracking surgical science with VLMs"
     authors: "<strong>Danush Kumar Venkatesh</strong>"
     conference_short: Challenge
     conference: "Medgemma Impact Challenge, 2026."
     pdf: https://youtu.be/bqjLCtSfDgs?si=1U_TalcTM9PPG7hL
     image: ./assets/img/SurgFasT.png
-
-  - title: "Mitigating Surgical Data Imbalance with Dual-Prediction Video Diffusion Model"
-    authors: "<strong>Danush Kumar Venkatesh</strong>, Adam Schmidt, Muhammad Abdullah Jamal, Omid Mohareri"
-    conference_short: arxiv
-    conference: "Research internship work conducted at Intuitive Surgical, 2025."
-    pdf: https://arxiv.org/pdf/2510.07345
-    image: ./assets/img/iclr_model.png
 
   - title: "Towards Application Aligned Synthetic Surgical Image Synthesis"
     authors: "<strong>Danush Kumar Venkatesh</strong>, Stefanie Speidel"
